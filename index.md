@@ -7,8 +7,8 @@ pagetitle: CS 240B
 **Time**: 4pm-5:50pm &nbsp; **Location**: Boelter 5280 &nbsp; **Instructor**: [Remy Wang](https://remy.wang)
 
 This is a graduate-level research-oriented course offered in Fall 2025.
-The course aims to introduce foundation knowledge and discuss recent advances
- in Data and Knowledge Bases.
+The course aims to introduce foundational knowledge and discuss recent advances
+ in Databases.
 We will focus on the algorithmic aspect of data processing this quarter.
 
 The lectures will be based on [notes](https://pages.cs.wisc.edu/~paris/lecture-notes/)
