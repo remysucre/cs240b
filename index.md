@@ -4,6 +4,8 @@ pagetitle: CS 240B
 
 # CS 240B Advanced Databases
 
+**Time**: 4pm-5:50pm &nbsp; **Location**: Boelter 5280 &nbsp; **Instructor**: [Remy Wang](https://remy.wang)
+
 This is a graduate-level research-oriented course offered in Fall 2025.
 The course aims to introduce foundation knowledge and discuss recent advances
  in Data and Knowledge Bases.
