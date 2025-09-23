@@ -1,0 +1,13 @@
+---
+title: CS240B Advanced Databases
+mainfont: sans-serif
+link-citations: true
+nocite: |
+  @*
+header-includes: |
+  <style>
+  div.csl-entry {
+    padding: 0.3em;
+  }
+  </style>
+...

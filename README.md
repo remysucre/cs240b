@@ -1,9 +1,3 @@
----
-pagetitle: CS 240B
----
-
-# CS 240B Advanced Databases
-
 **Time**: 4pm-5:50pm &nbsp; **Location**: Boelter 5280 &nbsp; **Instructor**: [Remy Wang](https://remy.wang)
 
 This is a graduate-level research-oriented course offered in Fall 2025.
@@ -25,3 +19,6 @@ The students are expected to be familiar with the inner workings of relational
 50% of the grade is based on homework assignments (every two weeks),
  involving writing both proofs and programs.
 The other 50% of the grade is based on a final project/report.
+
+## Reading
+*WIP: expect more papers to be added*.

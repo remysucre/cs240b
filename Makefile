@@ -1,12 +1,11 @@
-PANDOC_OPTIONS := -f markdown+inline_code_attributes+superscript \
-                  -t html --katex -s \
-                  -V maxwidth=650px \
-                  -V mainfont=sans-serif \
-                  -V linestretch=1.6
+FMT   = fmt.yml
+MD    = README.md
+NOTES = notes.md
+BIB   = references.bib
+OUT   = index.html
 
-all: index.html
+$(OUT): $(FMT) $(MD) $(NOTES) $(BIB)
+	pandoc --citeproc -s $(FMT) $(MD) $(NOTES) -o $(OUT) --csl=acm.csl --bibliography=$(BIB)
 
-index.html: index.md
-	pandoc $< $(PANDOC_OPTIONS) -o $@
-
-.PHONY: all
+clean:
+	rm -f $(OUT)
