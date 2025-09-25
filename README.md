@@ -16,9 +16,9 @@ The students are expected to be familiar with the inner workings of relational
 
 ## Grading
 
-50% of the grade is based on homework assignments (every two weeks),
+50% of the grade is based on [homework assignments](https://github.com/remysucre/cs240b/tree/main/homeworks) (every two weeks),
  involving writing both proofs and programs.
-The other 50% of the grade is based on a final project/report.
+The other 50% of the grade is based on a final [project/report](https://github.com/remysucre/cs240b/blob/main/projects.md).
 
 ## Reading
 *WIP: expect more papers to be added*.
