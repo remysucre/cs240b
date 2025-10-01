@@ -1,4 +1,4 @@
-**Time**: 4pm-5:50pm &nbsp; **Location**: Boelter 5280 &nbsp; **Instructor**: [Remy Wang](https://remy.wang)
+**Time**: 4pm-5:50pm &nbsp; **Location**: Boelter 5280 &nbsp; **Instructor**: [Remy Wang](https://remy.wang) &nbsp; [**ed**](https://edstem.org/us/join/dAfQvy)
 
 This is a graduate-level research-oriented course offered in Fall 2025.
 The course aims to introduce foundational knowledge and discuss recent advances
