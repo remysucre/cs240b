@@ -2,7 +2,7 @@
 
 * Prove $\textsf{NC}^i \subseteq \textsf{AC}^i \subseteq \textsf{NC}^{i+1}$
 
-* Prove the evaluation of FO formulae is in $\textsf{AC}^0$
+* Prove the data complexity of evaluating FO sentences is in $\textsf{AC}^0$
 
 * Write out [query 33c](https://github.com/gregrahn/join-order-benchmark/blob/master/33c.sql) from the join order benchmark in the form of conjunctive query; ignore all but join predicates (equality predicates between table columns), and also omit attributes that do not take part in a join.
 
